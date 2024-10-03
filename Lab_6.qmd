@@ -1,0 +1,22 @@
+---
+title: "Lab 6: Quarto Presentation"
+format: revealjs
+editor: visual
+bibliography: references.bib
+---
+
+## Some Important Literature
+
+-   This paper talks about the diversity of bacterial strains in the light organs of cardinal fish. \[\@gould_strain-level_2023\]
+
+-   This paper covers the morphology of the fish and its luminescent light organ. \[\@leis1986\]
+
+## A Cool Equation or Two
+
+$$pA = \frac{f(A) }{\sum_{b \in \{A,C,G,T\}} f(b) }$$
+
+$w_A(g) \equiv \prod_i^M \sum_j^M \Big( \frac{\exp(-q\epsilon d^H_{i,j})}{\sum_j \exp(-q\epsilon d^H_{i,j})} \Big) \phi^{d^A_{i,j}}$\$
+
+## References
+
+references.bib
